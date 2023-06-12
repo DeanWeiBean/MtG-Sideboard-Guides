@@ -6,26 +6,26 @@ Rakdos Midrange	Path to Exile	0	+1
 Rakdos Midrange	Rest in Peace	0	+2
 Rakdos Midrange	Council's Judgement	0	+2
 
-Death and Taxes	Miracles	Mother of Runes	1	-4
-Death and Taxes	Miracles	Swords to Plowshares	1	-2
-Death and Taxes	Miracles	Council's Judgement	0	+2
-Death and Taxes	Miracles	Gideon, AoZ	0	+2
-Death and Taxes	Miracles	Pithing Needle	0	+1
-Death and Taxes	Miracles	Ethersworn Canonist	0	+1
+Rakdos Midrange	Miracles	Mother of Runes	1	-4
+Rakdos Midrange	Miracles	Swords to Plowshares	1	-2
+Rakdos Midrange	Miracles	Council's Judgement	0	+2
+Rakdos Midrange	Miracles	Gideon, AoZ	0	+2
+Rakdos Midrange	Miracles	Pithing Needle	0	+1
+Rakdos Midrange	Miracles	Ethersworn Canonist	0	+1
 
-Death and Taxes	Sneak 'n Show	Swords to Plowshares	1	-3
-Death and Taxes	Sneak 'n Show	Mirran Crusader	1	-1
-Death and Taxes	Sneak 'n Show	Umezawa's Jitte	1	-1
-Death and Taxes	Sneak 'n Show	Stoneforge Mystic	1	-1
-Death and Taxes	Sneak 'n Show	Pithing Needle	0	+1
-Death and Taxes	Sneak 'n Show	Path to Exile	0	+1
-Death and Taxes	Sneak 'n Show	Containment Priest	0	+1
-Death and Taxes	Sneak 'n Show	Council's Judgement	0	+2
-Death and Taxes	Sneak 'n Show	Sanctum Prelate	0	+1
+Rakdos Midrange	Sneak 'n Show	Swords to Plowshares	1	-3
+Rakdos Midrange	Sneak 'n Show	Mirran Crusader	1	-1
+Rakdos Midrange	Sneak 'n Show	Umezawa's Jitte	1	-1
+Rakdos Midrange	Sneak 'n Show	Stoneforge Mystic	1	-1
+Rakdos Midrange	Sneak 'n Show	Pithing Needle	0	+1
+Rakdos Midrange	Sneak 'n Show	Path to Exile	0	+1
+Rakdos Midrange	Sneak 'n Show	Containment Priest	0	+1
+Rakdos Midrange	Sneak 'n Show	Council's Judgement	0	+2
+Rakdos Midrange	Sneak 'n Show	Sanctum Prelate	0	+1
 
-Death and Taxes	Reanimator	Phyrexian Revoker	1	-3
-Death and Taxes	Reanimator	Stoneforge Mystic	1	-2
-Death and Taxes	Reanimator	Umezawa's Jitte	1	-1
+Rakdos Midrange	Reanimator	Phyrexian Revoker	1	-3
+Rakdos Midrange	Reanimator	Stoneforge Mystic	1	-2
+Rakdos Midrange	Reanimator	Umezawa's Jitte	1	-1
 Death and Taxes	Reanimator	Sword of FaI	1	-1
 Death and Taxes	Reanimator	Serra Avenger	1	-1
 Death and Taxes	Reanimator	Mirran Crusader	1	-1
@@ -69,25 +69,25 @@ Death and Taxes	Dredge	Rest in Peace	0	+3
 Death and Taxes	Dredge	Surgical Extraction	0	+2
 Death and Taxes	Dredge	Containment Priest	0	+1
 
-Death and Taxes	Elves	Sword of FaI	1	-1
-Death and Taxes	Elves	Thalia, GoT	1	-4
-Death and Taxes	Elves	Flickerwisp	1	-4
-Death and Taxes	Elves	Pithing Needle	0	+1
-Death and Taxes	Elves	Council's Judgement	0	+2
-Death and Taxes	Elves	Containment Priest	0	+1
-Death and Taxes	Elves	Ethersworn Canonist	0	+1
-Death and Taxes	Elves	Path to Exile	0	+1
-Death and Taxes	Elves	Surgical Extraction	0	+2
-Death and Taxes	Elves	Sanctum Prelate	0	+1
+Rakdos Midrange	Elves	Sword of FaI	1	-1
+Rakdos Midrange	Elves	Thalia, GoT	1	-4
+Rakdos Midrange	Elves	Flickerwisp	1	-4
+Rakdos Midrange	Elves	Pithing Needle	0	+1
+Rakdos Midrange	Elves	Council's Judgement	0	+2
+Rakdos Midrange	Elves	Containment Priest	0	+1
+Rakdos Midrange	Elves	Ethersworn Canonist	0	+1
+Rakdos Midrange	Elves	Path to Exile	0	+1
+Rakdos Midrange	Elves	Surgical Extraction	0	+2
+Rakdos Midrange	Elves	Sanctum Prelate	0	+1
 
-Death and Taxes	Death and Taxes	Thalia, GoT	1	-4
-Death and Taxes	Death and Taxes	Spirit of the Labyrinth	1	-1
-Death and Taxes	Death and Taxes	Sanctum Prelate	1	-1
-Death and Taxes	Death and Taxes	Pithing Needle	0	+1
-Death and Taxes	Death and Taxes	Council's Judgement	0	+2
-Death and Taxes	Death and Taxes	Path to Exile	0	+1
-Death and Taxes	Death and Taxes	Sword of LaS	0	+1
-Death and Taxes	Death and Taxes	Containment Priest	0	+1
+Rakdos Midrange	Death and Taxes	Thalia, GoT	1	-4
+Rakdos Midrange	Death and Taxes	Spirit of the Labyrinth	1	-1
+Rakdos Midrange	Death and Taxes	Sanctum Prelate	1	-1
+Rakdos Midrange	Death and Taxes	Pithing Needle	0	+1
+Rakdos Midrange	Death and Taxes	Council's Judgement	0	+2
+Rakdos Midrange	Death and Taxes	Path to Exile	0	+1
+Rakdos Midrange	Death and Taxes	Sword of LaS	0	+1
+Rakdos Midrange	Death and Taxes	Containment Priest	0	+1
 
 Lands	Delver	Manabond	1	-1
 Lands	Delver	Glacial Chasm	1	-1
