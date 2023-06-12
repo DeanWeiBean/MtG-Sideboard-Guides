@@ -1,10 +1,10 @@
 deck	opponent	card	maindeck	delta
-Death and Taxes	Delver	Phyrexian Revoker	1	-3
-Death and Taxes	Delver	Flickerwisp	1	-1
-Death and Taxes	Delver	Sanctum Prelate	1	-1
-Death and Taxes	Delver	Path to Exile	0	+1
-Death and Taxes	Delver	Rest in Peace	0	+2
-Death and Taxes	Delver	Council's Judgement	0	+2
+Rakdos Midrange	Phyrexian Revoker	1	-3
+Rakdos Midrange	Flickerwisp	1	-1
+Rakdos Midrange	Sanctum Prelate	1	-1
+Rakdos Midrange	Path to Exile	0	+1
+Rakdos Midrange	Rest in Peace	0	+2
+Rakdos Midrange	Council's Judgement	0	+2
 
 Death and Taxes	Miracles	Mother of Runes	1	-4
 Death and Taxes	Miracles	Swords to Plowshares	1	-2
